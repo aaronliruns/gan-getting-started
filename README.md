@@ -9,4 +9,4 @@ The dataset contains four directories: monet_tfrec, photo_tfrec, monet_jpg, and 
 We will use TFRecords to deserialize the Monet images as well as the camera photos from tfrec files where Monet images will be used to train the model. As the outcome of the project, we will add Monet-style to these images so that the camera taken photos will have a flavor of Monet. A zip file containing 10,000 immages will eventually produced for final submission.
 
 
-Please find Kaggle submission at - [](https://www.kaggle.com/code/chli3841/cyclegan-add-monet-flavor) 
+Please find Kaggle submission at - https://www.kaggle.com/code/chli3841/cyclegan-add-monet-flavor
